@@ -73,49 +73,42 @@
 
 **Tech Stack:** Python, ChromaDB, Qdrant, Milvus, DuckDB, SBERT, CLIP, RAG
 
-* Built a benchmarking framework to compare vector databases for semantic search and multimodal retrieval.
-* Evaluated ChromaDB, Qdrant, and Milvus across 100K+ records and 10K queries.
-* Measured recall, latency, throughput, and execution time across different workloads.
+* Built a benchmarking framework to compare vector databases for semantic search, multimodal retrieval, and RAG workflows.
+* Evaluated ChromaDB, Qdrant, and Milvus using 100K+ records and 10K queries.
+* Measured recall, latency, throughput, and execution time to compare database performance across different workloads.
 
-### Data Product Catalog Marketplace
+### IRIS: AI Grocery Assistant
 
-**Tech Stack:** Python, Django REST Framework, Elasticsearch, AWS EC2, AWS Secrets Manager, GitHub Actions
+**Tech Stack:** React, Node.js, Claude Sonnet Vision, ElevenLabs, Barcode Scanning
 
-* Developed backend APIs for an enterprise data catalog platform.
-* Integrated metadata from governance tools such as Azure Purview, Informatica, and AWS Glue.
-* Supported search, metadata access, approval workflows, and audit logging for governed enterprise data assets.
+* Built a mobile-first AI grocery assistant to help users make safer food choices based on health needs.
+* Added ingredient recognition, barcode scanning, and meal recommendation workflows.
+* Used vision and voice-based AI features to make grocery guidance easier and more accessible.
 
-### KPI Analytics Dashboard
+### EngageIU
 
-**Tech Stack:** Python, Django, Google Analytics API, SQL, JavaScript, HTML, CSS
+**Tech Stack:** FastAPI, Python, SQLite, SQLAlchemy, HTML, CSS, JavaScript, Docker
 
-* Built a dashboard to track SEO, SEM, social media, and website performance metrics.
-* Created backend workflows to collect and process analytics data.
-* Helped teams view KPIs in one place and make faster business decisions.
+* Built a campus event attendance and leaderboard platform for Indiana University.
+* Added event check-ins, user login, admin controls, and an auto-refreshing leaderboard.
+* Implemented performance tracking and request logging to monitor application usage.
+
+### ShieldScraper
+
+**Tech Stack:** Scrapy, AWS Lambda, AWS Glue, S3, DynamoDB, Athena, ECS Fargate
+
+* Built an AWS-based data pipeline for large-scale web scraping and data ingestion.
+* Used Scrapy with cloud services to collect, store, and organize scraped data.
+* Supported analytics workflows using S3, DynamoDB, Glue, and Athena.
 
 ### Sign Language Recognition System
 
 **Tech Stack:** Python, CNN, OpenCV, Mediapipe, Flask
 
-* Built a sign language recognition system for 26 ASL signs.
-* Used computer vision and deep learning to classify hand gestures.
-* Served predictions through a Flask web application and achieved 87% accuracy.
+* Built a sign language recognition system for 26 ASL signs using computer vision and deep learning.
+* Used OpenCV and Mediapipe for hand gesture detection and preprocessing.
+* Served predictions through a Flask web app and achieved 87% accuracy.
 
-### Hadoop Log Analysis
-
-**Tech Stack:** Hadoop, HDFS, YARN, MapReduce, Python, Linux
-
-* Processed large log files using Hadoop MapReduce.
-* Analyzed structured log data to extract useful patterns and summaries.
-* Worked with distributed storage and batch processing concepts.
-
-### Doctor Consultation Web Application
-
-**Tech Stack:** Django, Python, HTML, CSS, JavaScript, SQL
-
-* Built a prototype web application for doctor-patient consultation workflows.
-* Developed role-based views for patients, doctors, and admins.
-* Supported appointment and user management features.
 
 ---
 
