@@ -124,7 +124,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shivali-m/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shivali7080@gmail.com)
 
-
+<!-- 
 ### GitHub Stats
 
 <p align="center">
@@ -135,7 +135,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivali32&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 <p align="center">
