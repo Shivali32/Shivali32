@@ -3,7 +3,7 @@
 * Software Engineer and MS Computer Science graduate from Indiana University Bloomington.
 * Former Software Engineer at Capgemini, with experience in backend APIs, data platforms, and enterprise systems.
 * Interested in backend engineering, AI systems, cloud infrastructure, and data-intensive applications.
-* Built projects across vector databases, semantic search, RAG, dashboards, and full-stack web apps.
+* Built projects across agentic multimodal RAG, vector databases, semantic search, dashboards, and full-stack web apps.
 <!-- * I enjoy building practical systems that solve real problems and are easy to use.-->
 
 ---
@@ -26,6 +26,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 <!-- ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
@@ -35,11 +37,15 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-5A45FF?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge\&logo=googlegemini\&logoColor=white)
 <!-- ![Semantic Search](https://img.shields.io/badge/Semantic_Search-6A5ACD?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6F61?style=for-the-badge\&logo=databricks\&logoColor=white) -->
 
 ### 🗄️ Databases
@@ -69,6 +75,14 @@
 
 ## Top Projects
 
+### Agentic Multimodal RAG Platform
+
+**Tech Stack:** Python, LangGraph, FastMCP, Pydantic, IBM Granite, IBM watsonx.ai, Gradio
+
+* Built a multimodal RAG platform that prepares structured data and image descriptions for text and image retrieval.
+* Added metadata filtering, retrieval fusion, and reranking to find relevant results across vector indexes.
+* Coordinated specialized agents with LangGraph, exposed data and actions through MCP tools, and built an asynchronous Gradio interface.
+  
 ### Vector Database Benchmarking for Semantic Search
 
 **Tech Stack:** Python, ChromaDB, Qdrant, Milvus, DuckDB, SBERT, CLIP, RAG
